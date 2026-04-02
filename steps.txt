@@ -6,6 +6,7 @@ git branch -M main
 git remote add origin git@github.com:vamshi-bolla/-myrepo.git
 git push -u origin main
 
+git pull origin <<origin/branch name>>
 git status
 git add .
 git rm -rf "filename"---> To delete file
