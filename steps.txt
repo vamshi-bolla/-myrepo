@@ -11,6 +11,7 @@ git add .
 git rm -rf "filename"---> To delete file
 git log ---> To see all the history.
 git log --pretty=oneline---> To see comments in one line instead of multiple lines.
+git log --graph ---> Graph kind of representation
 git show <<version number to see the details>>
 git tag
 git tag V1 -m "Your Comments"---> To Tag source code
@@ -21,5 +22,5 @@ git checkout/switch -b/-c <<Branch Name>>---> To create a branch
 git branch--->To list down all branches (* indicates current branch)
 git branch --all --->To list down all branches including remtoe branches (* indicates current branch)
 git checkout/switch <<Branch Name>>---> To switch between branches
-gti checkout/switch - --->To go back to previous branch
-gti branch -d <<Branch Name>> --->To delete branch
+git checkout/switch - --->To go back to previous branch
+git branch -d <<Branch Name>> --->To delete branch
