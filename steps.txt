@@ -14,4 +14,8 @@ git tag V1 -m "Your Comments"---> To Tag source code
 git push origin V1--->Push tag to git, versioning is case sensitive ?
 git clone <<URL>>---> To download code from git to local                
 
+<<<<<<< HEAD
 From branch1
+=======
+from branch2
+>>>>>>> branch2
