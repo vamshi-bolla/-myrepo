@@ -24,3 +24,4 @@ git branch --all --->To list down all branches including remtoe branches (* indi
 git checkout/switch <<Branch Name>>---> To switch between branches
 git checkout/switch - --->To go back to previous branch
 git branch -d <<Branch Name>> --->To delete branch
+git merge <<name of the branch to be merged>> ---> runt the command in parent branch in which the branch should be merged
