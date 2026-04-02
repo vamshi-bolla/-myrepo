@@ -5,3 +5,10 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin git@github.com:vamshi-bolla/-myrepo.git
 git push -u origin main
+
+git status
+git add .
+git rm -rf "filename"---> To delete file
+git tag
+git tag V1 -m "Your Comments"---> To Tag source code
+git push origin V1--->Push tag to git
